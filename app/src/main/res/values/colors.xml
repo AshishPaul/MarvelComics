@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorPrimaryHome">@color/red_primary</color>
+    <color name="colorPrimaryDarkHome">@color/red_primary_dark</color>
+    <color name="colorPrimaryLightHome">@color/red_primary_light</color>
+    <color name="colorAccentHome">@color/blue_grey</color>
+
+    <color name="colorPrimaryCollection">@color/orange_primary</color>
+    <color name="colorPrimaryDarkCollection">@color/orange_primary_dark</color>
+    <color name="colorPrimaryLightCollection">@color/orange_primary</color>
+    <color name="colorAccentCollection">@color/blue_grey</color>
+
+
+    <color name="colorPrimaryFavorite">@color/indigo</color>
+    <color name="colorPrimaryDarkFavorite">@color/indigo_primary_dark</color>
+    <color name="colorPrimaryLightFavorite">@color/indigo_primary_light</color>
+    <color name="colorAccentFavorite">@color/amber</color>
+
+    <color name="colorPrimaryNotification">#2e7d32</color>
+    <color name="colorPrimaryDarkNotification">#1b5e20</color>
+    <color name="colorPrimaryLightNotification">#4caf50</color>
+    <color name="colorAccentNotification">@color/deep_orange</color>
+
+    <color name="colorPrimaryMyProfile">@color/blue_grey</color>
+    <color name="colorPrimaryDarkMyProfile">@color/blue_grey_dark_700</color>
+    <color name="colorPrimaryLightMyProfile">@color/blue_grey_light_200</color>
+    <color name="colorAccentMyProfile">@color/teal</color>
+
 </resources>

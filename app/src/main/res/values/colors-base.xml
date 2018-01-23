@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- grayscale -->
+    <color name="white"     >#FFFFFF</color>
+    <color name="gray_light">#DBDBDB</color>
+    <color name="gray"      >#9E9E9E</color>
+    <color name="gray_dark_700" >#616161</color>
+    <color name="black"     >#212121</color>
+    <color name="black_secondary_text">#757575</color>
+
+    <!-- basic colors -->
+
+    <color name="red_primary">#c62828</color>
+    <color name="red_primary_dark">#b71c1c</color>
+    <color name="red_primary_light">#e53935</color>
+
+    <color name="orange_primary">#f57c00</color>
+    <color name="orange_primary_dark">#ef6c00</color>
+
+    <color name="sky_blue">#03A9F4</color>
+
+    <color name="purple">#9C27B0</color>
+    <color name="purple_primary_dark">#7B1FA2</color>
+    <color name="purple_primary_light">#E1BEE7</color>
+
+    <color name="indigo">#3F51B5</color>
+    <color name="indigo_primary_dark">#303F9F</color>
+    <color name="indigo_primary_light">#C5CAE9</color>
+    <color name="amber">#FFC107</color>
+
+    <color name="green">#4CAF50</color>
+    <color name="green_primary_dark">#388E3C</color>
+    <color name="green_primary_light">#C8E6C9</color>
+    <color name="deep_orange">#FF5722</color>
+
+    <color name="teal">#009688</color>
+    <color name="material_teal_900">#FF004D40</color>
+    <color name="blue_grey">#607D8B</color>
+    <color name="blue_grey_dark_700">#455A64</color>
+    <color name="blue_grey_light_200">#B0BEC5</color>
+
+    <color name="primary_textNotification">@color/black</color>
+    <color name="secondary_textNotification">@color/black_secondary_text</color>
+    <color name="iconsNotification">@color/white</color>
+    <color name="dividerNotification">@color/gray_light</color>
+</resources>

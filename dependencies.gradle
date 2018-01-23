@@ -1,0 +1,12 @@
+ext {
+  supportLibrayVersion = '27.0.1'
+
+  retrofitVersion = '2.3.0'
+  okhttpVersion = '3.9.0'
+
+  butterknifeVersion = '8.8.1'
+  autoValueGoogleVersion = '1.5'
+
+  junitVersion = '4.12'
+
+}
